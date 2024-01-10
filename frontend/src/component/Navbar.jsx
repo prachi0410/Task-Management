@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <NavDiv id='navbar' className="navbar bg-warning-subtle">
       <div className="navbar-container">
-        <i className="fa-solid fa-s fa-beat fa-l">ameep</i>
+        <i className="fa-solid fa-p fa-beat fa-l">rachi</i>
       </div>
     </NavDiv>
   );
